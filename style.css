@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+.heading{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 3rem;
+}
+#dob{
+    text-align: center;
+    margin-left: 38rem;
+    padding: 0.6rem;
+    border-radius: 0.3rem;
+}
+body{
+    background-image:url("ballon.jpg");
+    background-position:0vmax;
+    background-size:cover;
+     
+    background-repeat: no-repeat; 
+    font-family: 'Acme', sans-serif;
+}
+.heading2{
+    text-align: center;
+    font-size: 2rem;
+    color: whitesmoke;
+}
+#lucky-number{
+    margin-left: 37rem;
+    padding: 0.6rem;
+    border-radius: 0.3rem;
+    text-align: center;
+}
+#check-button{
+    margin-left: 40rem; 
+    margin-top: 1rem;
+    cursor: pointer;
+    font-size: 1.5rem;
+    display: block;
+    background-color: var(--primarycolor);
+    max-width: 150px;
+    color: white;
+    font-size: 1.5rem;
+    
+    border-radius: 0.5rem;
+    border: solid white;
+}
+#message-display{
+    margin-left: 33rem;
+    padding: 0.9rem;
+    border-radius: 0.3rem;
+    text-align: center;
+    margin-top: 1rem;
+    font-family: 'Acme', sans-serif;
+    font-size: large;
+    background: transparent;
+    color: whitesmoke;
+    font-size: xx-large;
+}
+.footer{
+    text-align: center;
+    padding: 2rem;
+    background-color: var(--primarycolor);
+    color: white;
+    border-top-right-radius:1rem ;
+    border-bottom-left-radius:1rem ;
+}
+.social{
+    display: inline;
+    padding: 0.3rem;
+    font-size: 1.5rem;
+    color: whitesmoke;
+    background-color: var(--primarycolor);
+    max-width: 150px;
+    color: white;
+    font-size: 1.5rem;
+    border-radius: 00.5rem;
+    margin: 4rem;
+    
+}
+.footerheading{
+     font-weight: bold;
+     font-size: 1.5rem;
+}
+
